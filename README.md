@@ -7,7 +7,7 @@ London](https://www.brunel.ac.uk/), UB8 3PH, UK
 
 E-mail: `oleg.badunenko@brunel.ac.uk`, 
 
-## [[Employment]{.smallcaps}]
+## Employment
 
 2019 - present: Senior Lecturer in Economics and Finance, Economics and
 Finance Department, College of Business, Arts and Social Sciences,
@@ -23,8 +23,8 @@ Cologne](http://www.uni-koeln.de/)
 2007 - 2010: Research Associate, [German Institute of Economic Research
 (DIW-Berlin)](http://www.diw.de/en)
 
-## [[Education]{.smallcaps}]
+## Education
 
-: Ph.D. in Economics, European University Viadrina, Germany,
-: M.A. in Economics, Kyiv School of Economics, Ukraine,
-: B.A. in Economics, Kyiv-Mohyla Academy, Ukraine.
+Ph.D. in Economics, European University Viadrina, Germany,
+M.A. in Economics, Kyiv School of Economics, Ukraine,
+B.A. in Economics, Kyiv-Mohyla Academy, Ukraine.
