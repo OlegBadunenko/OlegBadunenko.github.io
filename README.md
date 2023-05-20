@@ -233,10 +233,14 @@ Empirical Economics (2023-)
 
 ### Econometric Software
 
+#### R
+
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/npsf):
 38K.
+
+#### Stata
 
 Module '*npf*': Nonparametric and Stochastic Efficiency and Productivity
 Analysis (codes @ *Stata Journal*)
