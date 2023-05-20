@@ -27,11 +27,13 @@ Cologne](http://www.uni-koeln.de/)
 
 Ph.D. in Economics, European University Viadrina, Germany
 
-M.A. in Economics, Kyiv School of Economics, Ukraine
+M.A. in Economics, Kyiv School of Economics (EERC), Ukraine
 
 B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
 
-## Key Publications
+## Publications
+
+### Key Publications
 
 On Distinguishing the Direct Causal Effect of an Intervention from its
 Efficiency-enhancing Effects (with Giovanna D'Inverno and Kristof De
@@ -112,7 +114,7 @@ Valentin Zelenyuk), ***Oxford Bulletin of Economics and
 Statistics***, 2008, [DOI
 ](http://dx.doi.org/10.1111/j.1468-0084.2008.00508.x)
 
-## Other Publications
+### Other Publications
 
 Production Analysis with Asymmetric Noise (with Daniel J. Henderson),
 ***Journal of Productivity Analysis***,
@@ -168,7 +170,7 @@ Chinese Provinces (with Daniel J. Henderson and Kiril Tochkov),
 ***Journal of Macroeconomics***, 2007,
 [DOI](http://dx.doi.org/10.1016/j.jmacro.2007.02.006)
 
-## Refereed Book Chapters
+### Refereed Book Chapters
 
 Stochastic frontier analysis in Stata: using existing and coding new
 commands in "Handbook of Research Methods and Applications in Empirical
@@ -189,3 +191,63 @@ Structural Reforms in Europe" (Edited by Nauro F. Campos, Paul De
 Grauwe, and Yuemei Ji), 2018 Chapter 8, ***Oxford University
 Press***, [DOI
 ](http://dx.doi.org/10.1093/oso/9780198821878.001.0001)
+
+### Current Projects and R&R Requested
+
+Bank Competition, Financial Stability, and Oil Prices (with Sara
+Alfaihani and Shabbar Jaffry)
+
+On the relationship between profit and marginal costs (with Sara
+Alfaihani and Shabbar Jaffry, and Ana Lozano‐Vivas)
+
+Multidimensional Analysis for Attainment of Higher Education Goals in
+South Africa's Public Universities: Access, Quality, Diversity, Success
+and Efficiency (with Lindikaya Myeki)
+
+The Trade-off Between and Optimal Levels of Security and Privacy (with
+Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan)
+
+The Great Recession: Sector, Efficiency, Technological innovation and
+Capital deepening (with Romain Houssa)
+
+What does it take to go from public to private? Analysis of employment
+preferences using a survey data (with Shabbar Jaffry and Mohammed Al
+Mannaei)
+
+Deregulation, efficiency and catch-up of Italian public universities
+(with Gaetano Francesco Coppeta)
+
+Where do you and your country stand in happiness pursuit? An application
+of the Stochastic Frontier Ordered Choice Model (with José M. Cordero
+and Subal C. Kumbhakar)
+
+The Effect of Funding for Disadvantaged Students on Academic
+Underachievement (with Deni Mazrekaj, Kristof De Witte, and Subal C.
+Kumbhakar), **revision requested**
+
+Does Inequality Migrate? The Development of Income Inequality across
+German states (with Maria Popova), **revision requested**
+
+## Other Activities
+
+### Editorial Board
+
+Empirical Economics (2023-)
+
+### Econometric Software
+
+Package [*npsf*](https://cran.r-project.org/web/packages/npsf/):
+Nonparametric and Stochastic Efficiency and Productivity Analysis,
+[Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/npsf):
+38K.
+
+Module '*npf*': Nonparametric and Stochastic Efficiency and Productivity
+Analysis (codes @ *Stata Journal*)
+
+Module '*simarwilson*': Simar and Wilson two-stage efficiency analysis
+for Stata (codes @ *Stata Journal*)
+
+
+
+[Download curriculum
+vitae](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view)
