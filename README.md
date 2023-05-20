@@ -254,3 +254,7 @@ for Stata (codes @ *Stata Journal*)
 
 [Download curriculum
 vitae](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view)
+
+```R
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+```
