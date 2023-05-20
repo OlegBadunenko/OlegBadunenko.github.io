@@ -5,7 +5,7 @@ Department](https://www.brunel.ac.uk/economics-and-finance),
 [CBASS](https://www.brunel.ac.uk/about/cbass), [Brunel University
 London](https://www.brunel.ac.uk/), UB8 3PH, UK
 
-E-mail: `oleg.badunenko@brunel.ac.uk`, 
+E-mail: `oleg.badunenko@brunel.ac.uk`
 
 ## Employment
 
@@ -25,6 +25,8 @@ Cologne](http://www.uni-koeln.de/)
 
 ## Education
 
-Ph.D. in Economics, European University Viadrina, Germany,
-M.A. in Economics, Kyiv School of Economics, Ukraine,
-B.A. in Economics, Kyiv-Mohyla Academy, Ukraine.
+Ph.D. in Economics, European University Viadrina, Germany
+
+M.A. in Economics, Kyiv School of Economics, Ukraine
+
+B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
