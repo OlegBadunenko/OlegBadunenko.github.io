@@ -38,116 +38,116 @@ On Distinguishing the Direct Causal Effect of an Intervention from its
 Efficiency-enhancing Effects (with Giovanna D'Inverno and Kristof De
 Witte), ***European Journal of Operational
 Research***, 2023, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1016/j.ejor.2023.03.030)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2023.03.030)
 
 Better to grow or better to improve? Measuring environmental efficiency
 in OECD countries with a Stochastic Environmental Kuznets Frontier (with
 Marzio Galeotti and Lester C. Hunt), ***Energy
 Economics***, 2023, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1016/j.eneco.2023.106644)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.eneco.2023.106644)
 
 Do Carbon Taxes Affect Economic and Environmental Efficiency? The Case
 of British Columbia's Manufacturing Plants (with Subal C. Kumbhakar and
 Michael Willox), ***Energy Economics***,
 2022, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1016/j.eneco.2022.106359)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.eneco.2022.106359)
 
 The Impact of Efficiency on Asset Quality in Banking (with
 Aristeidis Dadoukis, Giulia Fusi, and Richard Simper) ***European
 Journal of Finance***, 2021, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1080/1351847X.2021.1946117)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1080/1351847X.2021.1946117)
 
 The effect of restructuring electricity distribution systems on firms'
 persistent and transient efficiency: The case of Germany (with
 Astrid Cullmann, Subal C. Kumbhakar, Maria Nieswand), ***Energy
 Journal***, 2021, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.5547/01956574.42.4.obad)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.5547/01956574.42.4.obad)
 
 Market size and market structure in banking (with Sara Alfaihani and
 Shabbar Jaffry), ***Journal of International Financial Markets,
 Institutions & Money***, 2021, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1016/j.intfin.2021.101342)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.intfin.2021.101342)
 
 Achieving a sustainable cost-efficient business model in banking: The
 case of European commercial banks (with Subal C. Kumbhakar and Ana
 Lozano‐Vivas), ***European Journal of Operational
 Research***, 2021, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1016/j.ejor.2020.12.039)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2020.12.039)
 
 Statistical Inference for the Russell Measure of Technical Efficiency
 (with Pavlo Mozharovskyi), ***Journal of the Operational Research
 Society***, 2020, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1080/01605682.2019.1599778)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1080/01605682.2019.1599778)
 
 Economies of Scale, Technical Change and Persistent and Time-Varying
 Cost Efficiency in Indian Banking: Do Ownership, Regulation and
 Heterogeneity Matter? (with Subal C. Kumbhakar), ***European Journal of
 Operational Research***, 2017, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1016/j.ejor.2017.01.025)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2017.01.025)
 
 When, Where and How to Estimate Persistent and Transient Efficiency in
 Stochastic Frontier Panel Data Models (with Subal C. Kumbhakar),
 ***European Journal of Operational
 Research***, 2016, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1016/j.ejor.2016.04.049)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2016.04.049)
 
 Productivity Growth across Spanish Regions and Industries (with Diego
 Romero-Ávila), ***Regional Studies***,
 2014, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1080/00343404.2012.709611)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1080/00343404.2012.709611)
 
 Financial Development and the Sources of Growth and Convergence, (with
 Diego Romero-Ávila), ***International Economic
 Review***, 2013, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1111/iere.12009)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/iere.12009)
 
 When, Where and How to Perform Efficiency Estimation (with
 Daniel J. Henderson and Subal C. Kumbhakar), ***Journal of the Royal
 Statistical Society, Series A***, 2012,
 [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1111/j.1467-985X.2011.01023.x)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1467-985X.2011.01023.x)
 
 Technological Change and Transition: Relative Contributions to Worldwide
 Growth During the 1990's (with Daniel J. Henderson and
 Valentin Zelenyuk), ***Oxford Bulletin of Economics and
 Statistics***, 2008, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1111/j.1468-0084.2008.00508.x)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1468-0084.2008.00508.x)
 
 ### Other Publications
 
 Production Analysis with Asymmetric Noise (with Daniel J. Henderson),
 ***Journal of Productivity Analysis***,
 2023, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1007/s11123-023-00680-5)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s11123-023-00680-5)
 
 Persistent and transient inefficiency in adult education (with Deni
 Mazrekaj, Subal C. Kumbhakar, and Kristof De Witte), ***Empirical
 Economics***, 2021, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1007/s00181-020-01966-5)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s00181-020-01966-5)
 
 Energy Intensity and Long- and Short-Term Efficiency in US Manufacturing
 Industry (with Subal C. Kumbhakar),
 ***Energies***, 2020, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.3390/en13153954)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.3390/en13153954)
 
 Simar and Wilson two-stage efficiency analysis for Stata (with Harald
 Tauchmann), ***Stata Journal***, 2019,
 [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1177/1536867X19893640)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X19893640)
 
 Nonparametric Frontier Analysis using Stata (with Pavlo Mozharovskyi),
 ***Stata Journal***, 2016, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1177/1536867X1601600302)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X1601600302)
 
 Significant Drivers of Growth in Africa (with Daniel J. Henderson and
 Romain Houssa), ***Journal of Productivity
 Analysis***, 2014, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1007/s11123-014-0400-4)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s11123-014-0400-4)
 
 Polarization of the Worldwide Distribution of Productivity (with
 Daniel J. Henderson and R. Robert Russell), ***Journal of Productivity
 Analysis***, 2013, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1007/s11123-012-0328-5)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s11123-012-0328-5)
 
 Downsizing in the German Chemical Manufacturing Industry During the
 1990s. Why Is Small Beautiful? ***Small Business
@@ -157,17 +157,17 @@ Soaring Dragons, Roaring Tigers, and Growling Bears: Determinants of
 Regional Growth and Convergence in China, India, and Russia (with
 Kiril Tochkov), ***Economics of
 Transition***, 2010, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1111/j.1468-0351.2009.00387.x)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1468-0351.2009.00387.x)
 
 Allocative Efficiency Measurement Revisited---Do We Really Need Input
 Prices? (with Andreas Stephan and Michael Fritsch), ***Economic
 Modelling***, 2008, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1016/j.econmod.2008.02.001)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.econmod.2008.02.001)
 
 A Drive up the Capital Coast? Contributions to Post-Reform Growth Across
 Chinese Provinces (with Daniel J. Henderson and Kiril Tochkov),
 ***Journal of Macroeconomics***, 2007,
-[DOI <img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1016/j.jmacro.2007.02.006)
+[DOI  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.jmacro.2007.02.006)
 
 ### Refereed Book Chapters
 
@@ -176,20 +176,20 @@ commands in "Handbook of Research Methods and Applications in Empirical
 Microeconomics" (edited by Nigar Hashimzade and Michael A. Thornton),
 2021, Chapter 17, ***Edward Elgar
 Publishing***, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.4337/9781788976480.00027)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.4337/9781788976480.00027)
 
 The Productivity of Nations (with Daniel J. Henderson and Valentin
 Zelenyuk) in "The Oxford Handbook of Productivity Analysis" (edited by
 Emili Grifell-Tatjé, C. A. Knox Lovell and Robin C. Sickles), 2018,
 Chapter 24, ***Oxford University
 Press***, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1093/oxfordhb/9780190226718.013.24)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1093/oxfordhb/9780190226718.013.24)
 
 Labor Market Regulations and Growth in "The Political Economy of
 Structural Reforms in Europe" (Edited by Nauro F. Campos, Paul De
 Grauwe, and Yuemei Ji), 2018 Chapter 8, ***Oxford University
 Press***, [DOI
-<img src="mal/DOI .png"  width="12" height="12">](https://DOI .org/10.1093/oso/9780198821878.001.0001)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1093/oso/9780198821878.001.0001)
 
 ### Current Projects and R&R Requested
 
