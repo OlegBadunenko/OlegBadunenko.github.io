@@ -37,8 +37,8 @@ B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
 On Distinguishing the Direct Causal Effect of an Intervention from its
 Efficiency-enhancing Effects (with Giovanna D'Inverno and Kristof De
 Witte), ***European Journal of Operational
-Research***, 2023, [DOI
-](https://doi.org/10.1016/j.ejor.2023.03.030)
+Research***, 2023, [DOI:
+![image](mal/doi.png){width=".27cm"}](https://doi.org/10.1016/j.ejor.2023.03.030)
 
 Better to grow or better to improve? Measuring environmental efficiency
 in OECD countries with a Stochastic Environmental Kuznets Frontier (with
