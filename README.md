@@ -1,12 +1,14 @@
 # Олег Бадуненко - Oleg Badunenko ([CV in pdf](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view))
 
+<img src="And_Uzviz_17.jpg"  width="512" height="437">
+
 E-mail: `oleg.badunenko@brunel.ac.uk`, projects at [GitHub, https://github.com/OlegBadunenko](https://github.com/OlegBadunenko)
 
 ## Employment
 
 2019 - present: Senior Lecturer in Economics and Finance, [Economics and Finance
-Department](https://www.brunel.ac.uk/economics-and-finance), 
-[College of Business, Arts and Social 
+Department](https://www.brunel.ac.uk/economics-and-finance),
+[College of Business, Arts and Social
 Sciences](https://www.brunel.ac.uk/about/cbass),
 [Brunel University London](https://www.brunel.ac.uk/)
 
