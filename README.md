@@ -4,7 +4,7 @@
 
 | - | - |
 |---|---|
-| <img src="mal/And_Uzviz_17.jpg"  width="512" height="437"> | I am text to the right \ I am text to the right |
+| <img src="mal/And_Uzviz_17.jpg"  width="512" height="437"> | I am text to the right \s\s I am text to the right |
 
 E-mail: `oleg.badunenko@brunel.ac.uk`, projects at [GitHub, https://github.com/OlegBadunenko](https://github.com/OlegBadunenko)
 
