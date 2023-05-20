@@ -30,3 +30,23 @@ Ph.D. in Economics, European University Viadrina, Germany
 M.A. in Economics, Kyiv School of Economics, Ukraine
 
 B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
+
+## Key Publications
+
+On Distinguishing the Direct Causal Effect of an Intervention from its
+Efficiency-enhancing Effects (with Giovanna D'Inverno and Kristof De
+Witte), ***[European Journal of Operational
+Research]***, 2023, [DOI:
+![image](doi.png){width=".27cm"}](https://doi.org/10.1016/j.ejor.2023.03.030)
+
+Better to grow or better to improve? Measuring environmental efficiency
+in OECD countries with a Stochastic Environmental Kuznets Frontier (with
+Marzio Galeotti and Lester C. Hunt), ***[Energy
+Economics]***, 2023, [DOI:
+![image](doi.png){width=".27cm"}](https://doi.org/10.1016/j.eneco.2023.106644)
+
+Do Carbon Taxes Affect Economic and Environmental Efficiency? The Case
+of British Columbia's Manufacturing Plants (with Subal C. Kumbhakar and
+Michael Willox), ***[Energy Economics]***,
+2022, [DOI:
+![image](doi.png){width=".27cm"}](http://dx.doi.org/10.1016/j.eneco.2022.106359)
