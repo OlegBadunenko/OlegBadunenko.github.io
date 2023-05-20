@@ -1,6 +1,6 @@
 # Олег Бадуненко - Oleg Badunenko ([CV in pdf](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view))
 
-<img src="And_Uzviz_17.jpg"  width="512" height="437">
+<img src="mal/And_Uzviz_17.jpg"  width="512" height="437">
 
 E-mail: `oleg.badunenko@brunel.ac.uk`, projects at [GitHub, https://github.com/OlegBadunenko](https://github.com/OlegBadunenko)
 
