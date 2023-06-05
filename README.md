@@ -278,7 +278,7 @@ for Stata (codes @ *Stata Journal*)
 
 [Stata commands to estimate the panel data stochastic frontier models of the 1st and 2nd generation](https://olegbadunenko.github.io/sf-panel-1st-2nd-gen/)
 
-
+---
 
 [Download curriculum
 vitae](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view)
