@@ -276,6 +276,8 @@ Analysis (codes @ *Stata Journal*)
 Module '*simarwilson*': Simar and Wilson two-stage efficiency analysis
 for Stata (codes @ *Stata Journal*)
 
+[Stata commands to estimate the panel data stochastic frontier models of the 1st and 2nd generation](https://olegbadunenko.github.io/sf-panel-1st-2nd-gen/)
+
 
 
 [Download curriculum
