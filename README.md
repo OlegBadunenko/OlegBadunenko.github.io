@@ -233,7 +233,7 @@ The Trade-off Between and Optimal Levels of Security and Privacy (with
 Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan)
 
 The Great Recession: Sector, Efficiency, Technological innovation and
-Capital deepening (with Romain Houssa)
+Capital deepening (with Romain Houssa)
 
 What does it take to go from public to private? Analysis of employment
 preferences using a survey data (with Shabbar Jaffry and Mohammed Al
@@ -245,6 +245,9 @@ Deregulation, efficiency and catch-up of Italian public universities
 Where do you and your country stand in happiness pursuit? An application
 of the Stochastic Frontier Ordered Choice Model (with José M. Cordero
 and Subal C. Kumbhakar)
+
+Market Power, Optimal Scale and Competition promotion in Banking: Analysis in the GCC Region (with Sara
+Alfaihani and Shabbar Jaffry) **revision requested**
 
 The Effect of Funding for Disadvantaged Students on Academic
 Underachievement (with Deni Mazrekaj, Kristof De Witte, and Subal C.
@@ -283,4 +286,4 @@ for Stata (codes @ *Stata Journal*)
 [Download curriculum
 vitae](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view)
 
-Updated: 24 June 2023
+Updated: 3 Jul 2023
