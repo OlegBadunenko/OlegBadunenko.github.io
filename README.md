@@ -222,9 +222,6 @@ Press***, [DOI
 Bank Competition, Financial Stability, and Oil Prices (with Sara
 Alfaihani and Shabbar Jaffry)
 
-On the relationship between profit and marginal costs (with Sara
-Alfaihani and Shabbar Jaffry, and Ana Lozano‐Vivas)
-
 Multidimensional Analysis for Attainment of Higher Education Goals in
 South Africa's Public Universities: Access, Quality, Diversity, Success
 and Efficiency (with Lindikaya Myeki)
