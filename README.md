@@ -233,8 +233,7 @@ The Great Recession: Sector, Efficiency, Technological innovation and
 Capital deepening (with Romain Houssa)
 
 What does it take to go from public to private? Analysis of employment
-preferences using a survey data (with Shabbar Jaffry and Mohammed Al
-Mannaei)
+preferences using a survey data (with Mohamed Almannaei and Shabbar Jaffry)
 
 Deregulation, efficiency and catch-up of Italian public universities
 (with Gaetano Francesco Coppeta)
