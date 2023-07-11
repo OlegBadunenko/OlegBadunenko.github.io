@@ -242,12 +242,12 @@ Where do you and your country stand in happiness pursuit? An application
 of the Stochastic Frontier Ordered Choice Model (with José M. Cordero
 and Subal C. Kumbhakar)
 
-Market Power, Optimal Scale and Competition promotion in Banking: Analysis in the GCC Region (with Sara
-Alfaihani and Shabbar Jaffry) **revision requested**
-
 The Effect of Funding for Disadvantaged Students on Academic
 Underachievement (with Deni Mazrekaj, Kristof De Witte, and Subal C.
-Kumbhakar), **revision requested**
+Kumbhakar)
+
+Market Power, Optimal Scale and Competition promotion in Banking: Analysis in the GCC Region (with Sara
+Alfaihani and Shabbar Jaffry) **revision requested**
 
 Does Inequality Migrate? The Development of Income Inequality across
 German states (with Maria Popova), **revision requested**
@@ -282,4 +282,4 @@ for Stata (codes @ *Stata Journal*)
 [Download curriculum
 vitae](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view)
 
-Updated: 3 Jul 2023
+Updated: 11 Jul 2023
