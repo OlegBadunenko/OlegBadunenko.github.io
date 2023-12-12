@@ -60,6 +60,9 @@ B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
 
 ### Key Publications
 
+Does Inequality Migrate? The Development of Income Inequality across
+German states (with Maria Popova), **Journal of Regional Science**, accepted.
+
 On Distinguishing the Direct Causal Effect of an Intervention from its
 Efficiency-enhancing Effects (with Giovanna D'Inverno and Kristof De
 Witte), ***European Journal of Operational
@@ -244,9 +247,6 @@ Kumbhakar)
 
 Market Power, Optimal Scale and Competition promotion in Banking: Analysis in the GCC Region (with Sara
 Alfaihani and Shabbar Jaffry) **revision requested**
-
-Does Inequality Migrate? The Development of Income Inequality across
-German states (with Maria Popova), **revision requested**
 
 ## Other Activities
 
