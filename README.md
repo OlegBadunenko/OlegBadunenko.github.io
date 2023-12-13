@@ -61,7 +61,7 @@ B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
 ### Key Publications
 
 Does Inequality Migrate? The Development of Income Inequality across
-German states (with Maria Popova), **Journal of Regional Science**, accepted.
+German States (with Maria Popova), **Journal of Regional Science**, accepted.
 
 On Distinguishing the Direct Causal Effect of an Intervention from its
 Efficiency-enhancing Effects (with Giovanna D'Inverno and Kristof De
@@ -261,7 +261,7 @@ Empirical Economics (2023-)
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/npsf):
-38K.
+40K.
 
 #### Stata
 
