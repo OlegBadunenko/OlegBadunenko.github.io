@@ -61,7 +61,8 @@ B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
 ### Key Publications
 
 Does Inequality Migrate? The Development of Income Inequality across
-German States (with Maria Popova), **Journal of Regional Science**, accepted.
+German States (with Maria Popova), **Journal of Regional Science**, , [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/jors.12683)
 
 On Distinguishing the Direct Causal Effect of an Intervention from its
 Efficiency-enhancing Effects (with Giovanna D'Inverno and Kristof De
