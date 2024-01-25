@@ -58,11 +58,12 @@ B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
 
 ## Publications
 
-### Key Publications
+### Key 10 Publications
 
-Does Inequality Migrate? The Development of Income Inequality across
-German States (with Maria Popova), **Journal of Regional Science**, 2024, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/jors.12683)
+Production Analysis with Asymmetric Noise (with Daniel J. Henderson),
+***Journal of Productivity Analysis***,
+2023, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s11123-023-00680-5)
 
 On Distinguishing the Direct Causal Effect of an Intervention from its
 Efficiency-enhancing Effects (with Giovanna D'Inverno and Kristof De
@@ -76,50 +77,22 @@ Marzio Galeotti and Lester C. Hunt), ***Energy
 Economics***, 2023, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.eneco.2023.106644)
 
-Do Carbon Taxes Affect Economic and Environmental Efficiency? The Case
-of British Columbia's Manufacturing Plants (with Subal C. Kumbhakar and
-Michael Willox), ***Energy Economics***,
-2022, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.eneco.2022.106359)
-
 The Impact of Efficiency on Asset Quality in Banking (with
-Aristeidis Dadoukis, Giulia Fusi, and Richard Simper) ***European
+Aristeidis Dadoukis, Giulia Fusi, and Richard Simper) ***European
 Journal of Finance***, 2021, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1080/1351847X.2021.1946117)
 
-The effect of restructuring electricity distribution systems on firms'
-persistent and transient efficiency: The case of Germany (with
-Astrid Cullmann, Subal C. Kumbhakar, Maria Nieswand), ***Energy
-Journal***, 2021, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.5547/01956574.42.4.obad)
-
-Market size and market structure in banking (with Sara Alfaihani and
-Shabbar Jaffry), ***Journal of International Financial Markets,
-Institutions & Money***, 2021, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.intfin.2021.101342)
-
 Achieving a sustainable cost-efficient business model in banking: The
-case of European commercial banks (with Subal C. Kumbhakar and Ana
+case of European commercial banks (with Subal C. Kumbhakar and Ana
 Lozano‐Vivas), ***European Journal of Operational
 Research***, 2021, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2020.12.039)
 
-Statistical Inference for the Russell Measure of Technical Efficiency
-(with Pavlo Mozharovskyi), ***Journal of the Operational Research
-Society***, 2020, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1080/01605682.2019.1599778)
-
 Economies of Scale, Technical Change and Persistent and Time-Varying
 Cost Efficiency in Indian Banking: Do Ownership, Regulation and
-Heterogeneity Matter? (with Subal C. Kumbhakar), ***European Journal of
+Heterogeneity Matter? (with Subal C. Kumbhakar), ***European Journal of
 Operational Research***, 2017, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2017.01.025)
-
-When, Where and How to Estimate Persistent and Transient Efficiency in
-Stochastic Frontier Panel Data Models (with Subal C. Kumbhakar),
-***European Journal of Operational
-Research***, 2016, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2016.04.049)
 
 Productivity Growth across Spanish Regions and Industries (with Diego
 Romero-Ávila), ***Regional Studies***,
@@ -132,31 +105,66 @@ Review***, 2013, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/iere.12009)
 
 When, Where and How to Perform Efficiency Estimation (with
-Daniel J. Henderson and Subal C. Kumbhakar), ***Journal of the Royal
+Daniel J. Henderson and Subal C. Kumbhakar), ***Journal of the Royal
 Statistical Society, Series A***, 2012,
 [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1467-985X.2011.01023.x)
 
 Technological Change and Transition: Relative Contributions to Worldwide
-Growth During the 1990's (with Daniel J. Henderson and
-Valentin Zelenyuk), ***Oxford Bulletin of Economics and
+Growth During the 1990's (with Daniel J. Henderson and
+Valentin Zelenyuk), ***Oxford Bulletin of Economics and
 Statistics***, 2008, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1468-0084.2008.00508.x)
 
+### Cited more than 100 times on [Google Scholar](https://scholar.google.com/citations?user=pMkF1iEAAAAJ&hl=en)
+
+Economies of Scale, Technical Change and Persistent and Time-Varying
+Cost Efficiency in Indian Banking: Do Ownership, Regulation and
+Heterogeneity Matter? (with Subal C. Kumbhakar), ***European Journal of
+Operational Research***, 2017, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2017.01.025)
+
+Simar and Wilson two-stage efficiency analysis for Stata (with Harald
+Tauchmann), ***Stata Journal***, 2019,
+[DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X19893640)
+
+
 ### Other Publications
 
-Production Analysis with Asymmetric Noise (with Daniel J. Henderson),
-***Journal of Productivity Analysis***,
-2023, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s11123-023-00680-5)
+Does Inequality Migrate? The Development of Income Inequality across
+German States (with Maria Popova), **Journal of Regional Science**, 2024, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/jors.12683)
+
+Do Carbon Taxes Affect Economic and Environmental Efficiency? The Case
+of British Columbia's Manufacturing Plants (with Subal C. Kumbhakar and
+Michael Willox), ***Energy Economics***,
+2022, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.eneco.2022.106359)
+
+Market size and market structure in banking (with Sara Alfaihani and
+Shabbar Jaffry), ***Journal of International Financial Markets,
+Institutions & Money***, 2021, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.intfin.2021.101342)
 
 Persistent and transient inefficiency in adult education (with Deni
 Mazrekaj, Subal C. Kumbhakar, and Kristof De Witte), ***Empirical
 Economics***, 2021, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s00181-020-01966-5)
 
+The effect of restructuring electricity distribution systems on firms'
+persistent and transient efficiency: The case of Germany (with
+Astrid Cullmann, Subal C. Kumbhakar, Maria Nieswand), ***Energy
+Journal***, 2021, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.5547/01956574.42.4.obad)
+
+Statistical Inference for the Russell Measure of Technical Efficiency
+(with Pavlo Mozharovskyi), ***Journal of the Operational Research
+Society***, 2020, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1080/01605682.2019.1599778)
+
 Energy Intensity and Long- and Short-Term Efficiency in US Manufacturing
-Industry (with Subal C. Kumbhakar),
+Industry (with Subal C. Kumbhakar),
 ***Energies***, 2020, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.3390/en13153954)
 
@@ -165,17 +173,23 @@ Tauchmann), ***Stata Journal***, 2019,
 [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X19893640)
 
+When, Where and How to Estimate Persistent and Transient Efficiency in
+Stochastic Frontier Panel Data Models (with Subal C. Kumbhakar),
+***European Journal of Operational
+Research***, 2016, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2016.04.049)
+
 Nonparametric Frontier Analysis using Stata (with Pavlo Mozharovskyi),
 ***Stata Journal***, 2016, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X1601600302)
 
-Significant Drivers of Growth in Africa (with Daniel J. Henderson and
-Romain Houssa), ***Journal of Productivity
+Significant Drivers of Growth in Africa (with Daniel J. Henderson and
+Romain Houssa), ***Journal of Productivity
 Analysis***, 2014, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s11123-014-0400-4)
 
 Polarization of the Worldwide Distribution of Productivity (with
-Daniel J. Henderson and R. Robert Russell), ***Journal of Productivity
+Daniel J. Henderson and R. Robert Russell), ***Journal of Productivity
 Analysis***, 2013, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s11123-012-0328-5)
 
@@ -185,7 +199,7 @@ Economics***, 2010,
 
 Soaring Dragons, Roaring Tigers, and Growling Bears: Determinants of
 Regional Growth and Convergence in China, India, and Russia (with
-Kiril Tochkov), ***Economics of
+Kiril Tochkov), ***Economics of
 Transition***, 2010, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1468-0351.2009.00387.x)
 
@@ -195,7 +209,7 @@ Modelling***, 2008, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.econmod.2008.02.001)
 
 A Drive up the Capital Coast? Contributions to Post-Reform Growth Across
-Chinese Provinces (with Daniel J. Henderson and Kiril Tochkov),
+Chinese Provinces (with Daniel J. Henderson and Kiril Tochkov),
 ***Journal of Macroeconomics***, 2007,
 [DOI  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.jmacro.2007.02.006)
 
@@ -208,7 +222,7 @@ Microeconomics" (edited by Nigar Hashimzade and Michael A. Thornton),
 Publishing***, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.4337/9781788976480.00027)
 
-The Productivity of Nations (with Daniel J. Henderson and Valentin
+The Productivity of Nations (with Daniel J. Henderson and Valentin
 Zelenyuk) in "The Oxford Handbook of Productivity Analysis" (edited by
 Emili Grifell-Tatjé, C. A. Knox Lovell and Robin C. Sickles), 2018,
 Chapter 24, ***Oxford University
@@ -246,8 +260,7 @@ The Effect of Funding for Disadvantaged Students on Academic
 Underachievement (with Deni Mazrekaj, Kristof De Witte, and Subal C.
 Kumbhakar)
 
-Market Power, Optimal Scale and Competition promotion in Banking: Analysis in the GCC Region (with Sara
-Alfaihani and Shabbar Jaffry) **revision requested**
+Market Power, Optimal Scale and Competition promotion in Banking: Analysis in the GCC Region (with Sara Alfaihani and Shabbar Jaffry) **revision requested**
 
 ## Other Activities
 
@@ -279,4 +292,4 @@ for Stata (codes @ *Stata Journal*)
 [Download curriculum
 vitae](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view)
 
-Updated: 12 Jul 2023
+Updated: 25 Jan 2024
