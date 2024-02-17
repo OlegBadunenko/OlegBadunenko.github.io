@@ -62,7 +62,7 @@ B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
 
 Production Analysis with Asymmetric Noise (with Daniel J. Henderson),
 ***Journal of Productivity Analysis***,
-2025, [DOI
+2024, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1007/s11123-023-00680-5)
 
 On Distinguishing the Direct Causal Effect of an Intervention from its
