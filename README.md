@@ -290,6 +290,6 @@ for Stata (codes @ *Stata Journal*)
 ---
 
 [Download curriculum
-vitae](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view)
+vitae](https://drive.proton.me/urls/848MAKZVCC#r7JxiVJq96pn)
 
 Updated: 25 Jan 2024
