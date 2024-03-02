@@ -1,4 +1,4 @@
-# Олег Бадуненко - Oleg Badunenko ([CV in pdf](https://drive.google.com/file/d/1D-6ev_3VyaraUQxy245oB2R6DXIP6pOD/view))
+# Олег Бадуненко - Oleg Badunenko ([CV in pdf](https://drive.proton.me/urls/848MAKZVCC#r7JxiVJq96pn))
 
 <img src="mal/And_Uzviz_17.jpg" align="left" width="512" height="437">
 
