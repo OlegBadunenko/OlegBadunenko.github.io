@@ -132,7 +132,7 @@ Tauchmann), ***Stata Journal***, 2019,
 
 ### Other Publications
 
-Market Power, Optimal Scale and Competition (with Sara Alfaihani and
+Market Power, Optimal Scale and Competition Promotion in Banking: Analysis in the GCC Region (with Sara Alfaihani and
 Shabbar Jaffry), ***International Journal of Finance and 
 Economics,***, 2024, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/)
