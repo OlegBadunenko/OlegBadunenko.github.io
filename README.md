@@ -132,8 +132,14 @@ Tauchmann), ***Stata Journal***, 2019,
 
 ### Other Publications
 
+Market Power, Optimal Scale and Competition (with Sara Alfaihani and
+Shabbar Jaffry), ***International Journal of Finance and 
+Economics,***, 2024, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/)
+
 Does Inequality Migrate? The Development of Income Inequality across
-German States (with Maria Popova), **Journal of Regional Science**, 2024, [DOI
+German States (with Maria Popova), **Journal of 
+Regional Science**, 2024, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/jors.12683)
 
 Do Carbon Taxes Affect Economic and Environmental Efficiency? The Case
@@ -260,8 +266,6 @@ The Effect of Funding for Disadvantaged Students on Academic
 Underachievement (with Deni Mazrekaj, Kristof De Witte, and Subal C.
 Kumbhakar)
 
-Market Power, Optimal Scale and Competition promotion in Banking: Analysis in the GCC Region (with Sara Alfaihani and Shabbar Jaffry) **revision requested**
-
 ## Other Activities
 
 ### Editorial Board
@@ -292,4 +296,4 @@ for Stata (codes @ *Stata Journal*)
 [Download curriculum
 vitae](https://drive.proton.me/urls/848MAKZVCC#r7JxiVJq96pn)
 
-Updated: 25 Jan 2024
+Updated: 5 Apr 2024
