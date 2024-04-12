@@ -1,4 +1,4 @@
-# Олег Бадуненко - Oleg Badunenko ([CV in pdf](https://drive.proton.me/urls/848MAKZVCC#r7JxiVJq96pn))
+# Олег Бадуненко - Oleg Badunenko ([CV in pdf](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs))
 
 <img src="mal/And_Uzviz_17.jpg" align="left" width="512" height="437">
 
@@ -299,6 +299,6 @@ for Stata (codes @ *Stata Journal*)
 ---
 
 [Download curriculum
-vitae](https://drive.proton.me/urls/848MAKZVCC#r7JxiVJq96pn)
+vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
 Updated: 5 Apr 2024
