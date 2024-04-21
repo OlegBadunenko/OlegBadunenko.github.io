@@ -90,8 +90,7 @@ Research***, 2021, [DOI
 
 Economies of Scale, Technical Change and Persistent and Time-Varying
 Cost Efficiency in Indian Banking: Do Ownership, Regulation and
-Heterogeneity Matter? (with Subal C. Kumbhakar), ***European Journal of
-Operational Research***, 2017, [DOI
+Heterogeneity Matter? (with Subal C. Kumbhakar), ***European Journal of Operational Research***, 2017, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2017.01.025)
 
 Productivity Growth across Spanish Regions and Industries (with Diego
@@ -99,9 +98,7 @@ Romero-Ávila), ***Regional Studies***,
 2014, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1080/00343404.2012.709611)
 
-Financial Development and the Sources of Growth and Convergence, (with
-Diego Romero-Ávila), ***International Economic
-Review***, 2013, [DOI
+Financial Development and the Sources of Growth and Convergence, (with Diego Romero-Ávila), ***International Economic Review***, 2013, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/iere.12009)
 
 When, Where and How to Perform Efficiency Estimation (with
@@ -140,7 +137,7 @@ Market Power, Optimal Scale and Competition Promotion in Banking:
 Analysis in the GCC Region (with Sara Alfaihani and
 Shabbar Jaffry), ***International Journal of Finance and 
 Economics,***, 2024, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1002/ijfe.2990)
 
 Does Inequality Migrate? The Development of Income Inequality across
 German States (with Maria Popova), **Journal of 
@@ -301,4 +298,4 @@ for Stata (codes @ *Stata Journal*)
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 5 Apr 2024
+Updated: 21 Apr 2024
