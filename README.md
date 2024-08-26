@@ -130,6 +130,12 @@ Nonparametric Frontier Analysis using Stata (with Pavlo Mozharovskyi),
 ***Stata Journal***, 2016, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X1601600302)
 
+ When, Where and How to Perform Efficiency Estimation (with
+Daniel J. Henderson and Subal C. Kumbhakar), ***Journal of the Royal
+Statistical Society, Series A***, 2012,
+[DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1467-985X.2011.01023.x)
+
 
 ### Other Publications
 
@@ -298,4 +304,4 @@ for Stata (codes @ *Stata Journal*)
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 21 Apr 2024
+Updated: 26 Aug 2024
