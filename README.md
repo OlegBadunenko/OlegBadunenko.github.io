@@ -142,12 +142,12 @@ Statistical Society, Series A***, 2012,
 Market Power, Optimal Scale and Competition Promotion in Banking: 
 Analysis in the GCC Region (with Sara Alfaihani and
 Shabbar Jaffry), ***International Journal of Finance and 
-Economics,***, 2024, [DOI
+Economics***, 2024, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1002/ijfe.2990)
 
 Does Inequality Migrate? The Development of Income Inequality across
-German States (with Maria Popova), **Journal of 
-Regional Science**, 2024, [DOI
+German States (with Maria Popova), ***Journal of 
+Regional Science***, 2024, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/jors.12683)
 
 Do Carbon Taxes Affect Economic and Environmental Efficiency? The Case
