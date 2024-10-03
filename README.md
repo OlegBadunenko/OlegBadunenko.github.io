@@ -301,4 +301,4 @@ for Stata (codes @ *Stata Journal*)
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 26 Aug 2024
+Updated: 3 Oct 2024
