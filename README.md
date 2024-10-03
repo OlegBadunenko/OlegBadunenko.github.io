@@ -52,7 +52,7 @@ Cologne](http://www.uni-koeln.de/)
 
 Ph.D. in Economics, European University Viadrina, Germany
 
-M.A. in Economics, Kyiv School of Economics (EERC), Ukraine
+M.A. in Economics, EERC, National University Kyiv-Mohyla Academy, Ukraine
 
 B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
 
@@ -259,9 +259,6 @@ Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan)
 
 What does it take to go from public to private? Analysis of employment
 preferences using a survey data (with Mohamed Almannaei and Shabbar Jaffry)
-
-The Great Recession: Sector, Efficiency, Technological innovation and
-Capital deepening (with Romain Houssa)
 
 Deregulation, efficiency and catch-up of Italian public universities
 (with Gaetano Francesco Coppeta)
