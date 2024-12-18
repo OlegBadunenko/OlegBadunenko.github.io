@@ -289,7 +289,7 @@ Economic Modelling (2025-)
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/npsf):
-40K.
+44K.
 
 #### Stata
 
