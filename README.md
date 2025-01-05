@@ -140,7 +140,8 @@ Statistical Society, Series A***, 2012,
 ### Other Publications
 
 Integrating Renewable Energy Resources in Electricity Distribution Systems -- A Firm-Level Efficiency Analysis for Sweden Controlling for Weather Conditions (w/
-Astrid Cullmann and Maria Nieswand), ***Energy Economics***, accepted
+Astrid Cullmann and Maria Nieswand), ***Energy Economics***, 2025, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.eneco.2024.108148)
 
 Market Power, Optimal Scale and Competition Promotion in Banking: 
 Analysis in the GCC Region (w/ Sara Alfaihani and
