@@ -139,6 +139,8 @@ Statistical Society, Series A***, 2012,
 
 ### Other Publications
 
+The Effect of Funding for Disadvantaged Students on Academic Underachievement(w/ Deni Mazrekaj, Kristof De Witte, and Subal C. Kumbhakar), *** ***, 2025
+
 Integrating Renewable Energy Resources in Electricity Distribution Systems -- A Firm-Level Efficiency Analysis for Sweden Controlling for Weather Conditions (w/
 Astrid Cullmann and Maria Nieswand), ***Energy Economics***, 2025, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.eneco.2024.108148)
