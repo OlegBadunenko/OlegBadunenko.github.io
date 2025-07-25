@@ -139,7 +139,7 @@ Statistical Society, Series A***, 2012,
 
 ### Other Publications
 
-The Effect of Funding for Disadvantaged Students on Academic Underachievement(w/ Deni Mazrekaj, Subal C. Kumbhakar, and Kristof De Witte), ***Humanities and Social Sciences Communications***, 2025
+The Effect of Funding for Disadvantaged Students on Academic Underachievement (w/ Deni Mazrekaj, Subal C. Kumbhakar, and Kristof De Witte), ***Humanities and Social Sciences Communications***, 2025
 
 Integrating Renewable Energy Resources in Electricity Distribution Systems -- A Firm-Level Efficiency Analysis for Sweden Controlling for Weather Conditions (w/
 Astrid Cullmann and Maria Nieswand), ***Energy Economics***, 2025, [DOI
@@ -277,6 +277,12 @@ The Effect of Funding for Disadvantaged Students on Academic
 Underachievement (w/ Deni Mazrekaj, Kristof De Witte, and Subal C.
 Kumbhakar)
 
+## Research Grant
+
+### BRIDGE
+
+Building resilient individuals through effective, gradual, educational transition, €264K, 2025 --  , [www.bridge-horizoneurope.eu]({www.bridge-horizoneurope.eu)
+
 ## Other Activities
 
 ### Editorial Board
@@ -302,7 +308,9 @@ Analysis (codes @ *Stata Journal*)
 Module '*simarwilson*': Simar and Wilson two-stage efficiency analysis
 for Stata (codes @ *Stata Journal*)
 
-[Stata commands to estimate the panel data stochastic frontier models of the 1st and 2nd generation](https://olegbadunenko.github.io/sf-panel-1st-2nd-gen/)
+[Stata commands to estimate the panel data stochastic frontier models of the 1st and 2nd generations](https://olegbadunenko.github.io/sf-panel-1st-2nd-gen/)
+
+[Stata commands to estimate the panel data stochastic frontier models of the 3rd generation](https://olegbadunenko.github.io/sf-panel-3rd-gen/)
 
 ---
 
