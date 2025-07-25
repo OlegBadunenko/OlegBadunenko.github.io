@@ -136,7 +136,6 @@ Statistical Society, Series A***, 2012,
 [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1467-985X.2011.01023.x)
 
-
 ### Other Publications
 
 The Effect of Funding for Disadvantaged Students on Academic Underachievement (w/ Deni Mazrekaj, Subal C. Kumbhakar, and Kristof De Witte), ***Humanities and Social Sciences Communications***, 2025
@@ -272,10 +271,6 @@ Deregulation, efficiency and catch-up of Italian public universities
 Where do you and your country stand in happiness pursuit? An application
 of the Stochastic Frontier Ordered Choice Model (w/ José M. Cordero
 and Subal C. Kumbhakar)
-
-The Effect of Funding for Disadvantaged Students on Academic
-Underachievement (w/ Deni Mazrekaj, Kristof De Witte, and Subal C.
-Kumbhakar)
 
 ## Research Grant
 
