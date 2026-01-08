@@ -32,17 +32,17 @@ E-mail: `oleg.badunenko@brunel.ac.uk`, projects at [GitHub, https://github.com/O
 
 ## Employment
 
-2019 - present: Senior Lecturer in Economics and Finance, [Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University London](https://www.brunel.ac.uk/)
+2019 - present: Senior Lecturer in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University London](https://www.brunel.ac.uk/))
 
-2016 - 2019: Senior Lecturer in Economics, Portsmouth Business School,
-[University of Portsmouth](http://www.port.ac.uk/)
+2016 - 2019: Senior Lecturer in Economics &nbsp; (Portsmouth Business School,
+[University of Portsmouth](http://www.port.ac.uk/))
 
-2010 - 2016: Assistant Professor in Applied Econometrics, Faculty of
+2010 - 2016: Assistant Professor in Applied Econometrics &nbsp; (Faculty of
 Management, Economics and Social Sciences, [University of
-Cologne](http://www.uni-koeln.de/)
+Cologne](http://www.uni-koeln.de/))
 
-2007 - 2010: Research Associate, [German Institute of Economic Research
-(DIW-Berlin)](http://www.diw.de/en)
+2007 - 2010: Research Associate &nbsp; ([German Institute of Economic Research
+(DIW-Berlin)](http://www.diw.de/en))
 
 ## Education
 
