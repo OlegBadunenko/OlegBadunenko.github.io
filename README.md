@@ -32,7 +32,7 @@ E-mail: `oleg.badunenko@brunel.ac.uk`, projects at [GitHub, https://github.com/O
 
 ## Employment
 
-2019 - present: Senior Lecturer in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University London](https://www.brunel.ac.uk/))
+2019 - present: Senior Lecturer in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University of London](https://www.brunel.ac.uk/))
 
 2016 - 2019: Senior Lecturer in Economics &nbsp; (Portsmouth Business School,
 [University of Portsmouth](http://www.port.ac.uk/))
