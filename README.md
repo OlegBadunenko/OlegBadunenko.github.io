@@ -32,11 +32,7 @@ E-mail: `oleg.badunenko@brunel.ac.uk`, projects at [GitHub, https://github.com/O
 
 ## Employment
 
-2019 - present: Senior Lecturer in Economics and Finance, [Economics and Finance
-Department](https://www.brunel.ac.uk/economics-and-finance),
-College of Business, Arts and Social
-Sciences,
-[Brunel University London](https://www.brunel.ac.uk/)
+2019 - present: Senior Lecturer in Economics and Finance, [Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University London](https://www.brunel.ac.uk/)
 
 2016 - 2019: Senior Lecturer in Economics, Portsmouth Business School,
 [University of Portsmouth](http://www.port.ac.uk/)
@@ -235,6 +231,10 @@ Chinese Provinces (w/ Daniel J. Henderson and Kiril Tochkov),
 
 ### Refereed Book Chapters
 
+Academic resilience and policy reform in England in "Risk, Resilience, and Recovery Across Global Education Systems" (edited by Louis Volante, Kristof De Witte, Orazio Giancola, Luca Salmieri, Don A. Klinger),
+2026, Chapter 2, ***Routledge***, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.4324/9781003608806-4)
+
 Stochastic frontier analysis in Stata: using existing and coding new
 commands in "Handbook of Research Methods and Applications in Empirical
 Microeconomics" (edited by Nigar Hashimzade and Michael A. Thornton),
@@ -294,7 +294,7 @@ Economic Modelling (2025-)
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/npsf):
-46K.
+48K.
 
 #### Stata
 
@@ -308,9 +308,11 @@ for Stata (codes @ *Stata Journal*)
 
 [Stata commands to estimate the panel data stochastic frontier models of the 3rd generation](https://olegbadunenko.github.io/sf-panel-3rd-gen/)
 
+[Stata commands to estimate the panel data stochastic frontier models](https://olegbadunenko.github.io/sf-panel/)
+
 ---
 
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 27 Aug 2025
+Updated: 8 Jan 2026
