@@ -291,7 +291,8 @@ Economic Modelling (2025-)
 
 #### R
 
-Package [*npsf*](https://cran.r-project.org/web/packages/npsf/):
+Package [*npsf*](https://cran.r-project.org/web/packages/npsf/) [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.npsf):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/npsf):
 48K.
@@ -299,10 +300,12 @@ Nonparametric and Stochastic Efficiency and Productivity Analysis,
 #### Stata
 
 Module '*npf*': Nonparametric and Stochastic Efficiency and Productivity
-Analysis (codes @ *Stata Journal*)
+Analysis (codes @ *Stata Journal*, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X1601600302))
 
 Module '*simarwilson*': Simar and Wilson two-stage efficiency analysis
-for Stata (codes @ *Stata Journal*)
+for Stata (codes @ *Stata Journal*, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X19893640))
 
 [Stata commands to estimate the panel data stochastic frontier models of the 1st and 2nd generations](https://olegbadunenko.github.io/sf-panel-1st-2nd-gen/)
 
