@@ -291,6 +291,11 @@ Economic Modelling (2025-)
 
 #### R
 
+Package [*snreg*](https://cran.r-project.org/web/packages/snreg/) [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.snreg):
+Regression with Skew-Normally Distributed Error Term,
+[Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/snreg).
+
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/) [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.npsf):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
@@ -318,4 +323,4 @@ for Stata (codes @ *Stata Journal*, [DOI
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 8 Jan 2026
+Updated: 6 Feb 2026
