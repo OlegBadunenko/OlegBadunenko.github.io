@@ -277,7 +277,7 @@ and Subal C. Kumbhakar)
 
 ### BRIDGE
 
-Building resilient individuals through effective, gradual, educational transition, €264K, 2025 --  , [www.bridge-horizoneurope.eu]({www.bridge-horizoneurope.eu)
+Building resilient individuals through effective, gradual, educational transition, €264K, 2025 -- 2029 , [www.bridge-horizoneurope.eu]({www.bridge-horizoneurope.eu)
 
 ## Other Activities
 
@@ -315,7 +315,7 @@ for Stata (codes @ [Stata Journal](https://doi.org/10.1177/1536867X19893640), [<
 
 [Stata commands to estimate the panel data stochastic frontier models](https://olegbadunenko.github.io/sf-panel/)
 
-----
+---
 
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
