@@ -299,7 +299,7 @@ Regression with Skew-Normally Distributed Error Term,
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/), [<img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.npsf):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/npsf):
-48K.
+49K.
 
 #### Stata
 
