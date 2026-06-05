@@ -132,8 +132,7 @@ Statistical Society, Series A***, 2012,
 
 ### Other Publications
 
-The Trade-off Between Security and Privacy: An Empirical Investigation Using Pakistani Survey Data (w/
-Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan), ***Technology in Society***, 2026, accepted
+The Trade-off Between Security and Privacy: An Empirical Investigation Using Pakistani Survey Data (w/ Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan), ***Technology in Society***, 2026, accepted
 
 The Effect of Funding for Disadvantaged Students on Academic Underachievement (w/ Deni Mazrekaj, Subal C. Kumbhakar, and Kristof De Witte), ***Humanities and Social Sciences Communications***, 2025,  [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1057/s41599-025-05524-1)
@@ -259,18 +258,22 @@ Press***, [DOI
 ### Current Projects and R&R Requested
 
 Bank Competition, Financial Stability, and Oil Prices (w/ Sara
-Alfaihani and Shabbar Jaffry)
+Alfaihani and Shabbar Jaffry), RR
 
 Why Do Workers Avoid the Private Sector? Information, Perceptions, and Public-Private Employment Choice (w/ Mohamed Almannaei and Shabbar Jaffry)
 
-Performance-Based Funding and University Efficiency: Evidence from Italian Public Universities (w/ Gaetano Francesco Coppeta)
+Performance-Based Funding and University Efficiency: Evidence from Italian Public Universities (w/ Gaetano Francesco Coppeta), RR
 
-Pollution abatement and sustainable growth with endogenous time preferences (w/ Sugata Ghosh and Nigar Hashimzade)
+Pollution abatement and sustainable growth with endogenous time preferences (w/ Sugata Ghosh and Nigar Hashimzade), RR
+
+Student Participation and Completion in Tertiary Education: The Past, Present, and Future (w/ Adaku Jennifer Agwunobi)
+
+Performance Analysis of Universities Across Economic, Teaching, and Research Dimensions (with Akram Dehnokhalaji and Helen Higson)
 
 Worldwide well-being efficiency and its determinants: New insights from the Ordered Probit Stochastic Frontier Model (w/ José M. Cordero
-and Subal C. Kumbhakar)
+and Subal C. Kumbhakar), RR
 
-Local Power, Global Scores: Effects of Decentralization Reform on Ukraine's School Graduate Outcomes (w/ Olha Zadorozhna)
+Local Power, Global Scores: Effects of Decentralization Reform on Ukraine's School Graduate Outcomes (w/ Olha Zadorozhna), RR
 
 ## Research Grant
 
@@ -293,7 +296,7 @@ Economic Modelling (2025-)
 Package [*snreg*](https://cran.r-project.org/web/packages/snreg/), [<img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.snreg):
 Regression with Skew-Normally Distributed Error Term,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/snreg):
-400.
+660.
 
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/), [<img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.npsf):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
