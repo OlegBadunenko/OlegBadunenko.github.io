@@ -98,15 +98,13 @@ Financial Development and the Sources of Growth and Convergence, (w/ Diego Romer
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/iere.12009)
 
 When, Where and How to Perform Efficiency Estimation (w/
-Daniel J. Henderson and Subal C. Kumbhakar), ***Journal of the Royal
-Statistical Society, Series A***, 2012,
+Daniel J. Henderson and Subal C. Kumbhakar), ***Journal of the Royal Statistical Society, Series A***, 2012,
 [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1467-985X.2011.01023.x)
 
 Technological Change and Transition: Relative Contributions to Worldwide
 Growth During the 1990's (w/ Daniel J. Henderson and
-Valentin Zelenyuk), ***Oxford Bulletin of Economics and
-Statistics***, 2008, [DOI
+Valentin Zelenyuk), ***Oxford Bulletin of Economics and Statistics***, 2008, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1468-0084.2008.00508.x)
 
 ### Cited more than 100 times on [Google Scholar](https://scholar.google.com/citations?user=pMkF1iEAAAAJ&hl=en)
@@ -133,6 +131,9 @@ Statistical Society, Series A***, 2012,
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1467-985X.2011.01023.x)
 
 ### Other Publications
+
+The Trade-off Between Security and Privacy: An Empirical Investigation Using Pakistani Survey Data (w/
+Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan), ***Technology in Society***, 2026, accepted
 
 The Effect of Funding for Disadvantaged Students on Academic Underachievement (w/ Deni Mazrekaj, Subal C. Kumbhakar, and Kristof De Witte), ***Humanities and Social Sciences Communications***, 2025,  [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1057/s41599-025-05524-1)
@@ -260,18 +261,16 @@ Press***, [DOI
 Bank Competition, Financial Stability, and Oil Prices (w/ Sara
 Alfaihani and Shabbar Jaffry)
 
-The Trade-off Between and Optimal Levels of Security and Privacy (w/
-Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan)
+Why Do Workers Avoid the Private Sector? Information, Perceptions, and Public-Private Employment Choice (w/ Mohamed Almannaei and Shabbar Jaffry)
 
-What does it take to go from public to private? Analysis of employment
-preferences using a survey data (w/ Mohamed Almannaei and Shabbar Jaffry)
+Performance-Based Funding and University Efficiency: Evidence from Italian Public Universities (w/ Gaetano Francesco Coppeta)
 
-Deregulation, efficiency and catch-up of Italian public universities
-(w/ Gaetano Francesco Coppeta)
+Pollution abatement and sustainable growth with endogenous time preferences (w/ Sugata Ghosh and Nigar Hashimzade)
 
-Where do you and your country stand in happiness pursuit? An application
-of the Stochastic Frontier Ordered Choice Model (w/ José M. Cordero
+Worldwide well-being efficiency and its determinants: New insights from the Ordered Probit Stochastic Frontier Model (w/ José M. Cordero
 and Subal C. Kumbhakar)
+
+Local Power, Global Scores: Effects of Decentralization Reform on Ukraine's School Graduate Outcomes (w/ Olha Zadorozhna)
 
 ## Research Grant
 
@@ -320,4 +319,4 @@ for Stata (codes @ [Stata Journal](https://doi.org/10.1177/1536867X19893640), [<
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 10 Apr 2026
+Updated: 5 Jun 2026
