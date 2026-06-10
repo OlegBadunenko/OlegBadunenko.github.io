@@ -132,7 +132,8 @@ Statistical Society, Series A***, 2012,
 
 ### Other Publications
 
-The Trade-off Between Security and Privacy: An Empirical Investigation Using Pakistani Survey Data (w/ Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan), ***Technology in Society***, 2026, accepted
+The Trade-off Between Security and Privacy: An Empirical Investigation Using Pakistani Survey Data (w/ Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan), ***Technology in Society***, 2026, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.techsoc.2026.103418)
 
 Local Power, Global Scores: Effects of Decentralization Reform on Ukraine's School Graduate Outcomes (w/ Olha Zadorozhna), ***Economic
 Modelling***, 2026, accepted
@@ -323,4 +324,4 @@ for Stata (codes @ [Stata Journal](https://doi.org/10.1177/1536867X19893640), [<
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 7 Jun 2026
+Updated: 10 Jun 2026
