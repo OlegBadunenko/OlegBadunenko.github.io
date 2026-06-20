@@ -32,25 +32,30 @@ E-mail: `oleg.badunenko@brunel.ac.uk`, projects at [GitHub, https://github.com/O
 
 ## Employment
 
-2019 - present: Senior Lecturer in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University of London](https://www.brunel.ac.uk/))
+2019 - present: Senior Lecturer in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University of London](https://www.brunel.ac.uk/)) <img src="mal/Flag_UK.png"  height="32">
+
 
 2016 - 2019: Senior Lecturer in Economics &nbsp; (Portsmouth Business School,
-[University of Portsmouth](http://www.port.ac.uk/))
+[University of Portsmouth](http://www.port.ac.uk/)) <img src="mal/Flag_UK.png"  height="32">
 
 2010 - 2016: Assistant Professor in Applied Econometrics &nbsp; (Faculty of
 Management, Economics and Social Sciences, [University of
-Cologne](http://www.uni-koeln.de/))
+Cologne](http://www.uni-koeln.de/)) <img src="mal/Flag_Germany.png"  height="28">
+
 
 2007 - 2010: Research Associate &nbsp; ([German Institute of Economic Research
-(DIW-Berlin)](http://www.diw.de/en))
+(DIW-Berlin)](http://www.diw.de/en)) <img src="mal/Flag_Germany.png"  height="28">
+
 
 ## Education
 
-Ph.D. in Economics, European University Viadrina, Germany
+Ph.D. in Economics, European University Viadrina, Germany <img src="mal/Flag_Germany.png"  height="28">
 
-M.A. in Economics, EERC, National University Kyiv-Mohyla Academy, Ukraine
 
-B.A. in Economics, Kyiv-Mohyla Academy, Ukraine
+M.A. in Economics, EERC, National University Kyiv-Mohyla Academy, Ukraine <img src="mal/ua_flag.png"  height="25">
+
+B.A. in Economics, Kyiv-Mohyla Academy, Ukraine <img src="mal/ua_flag.png"  height="25">
+
 
 ## Publications
 
@@ -136,7 +141,9 @@ The Trade-off Between Security and Privacy: An Empirical Investigation Using Pak
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.techsoc.2026.103418)
 
 Local Power, Global Scores: Effects of Decentralization Reform on Ukraine's School Graduate Outcomes (w/ Olha Zadorozhna), ***Economic
-Modelling***, 2026, accepted
+Modelling***, 2026, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.econmod.2026.107728)
+
 
 The Effect of Funding for Disadvantaged Students on Academic Underachievement (w/ Deni Mazrekaj, Subal C. Kumbhakar, and Kristof De Witte), ***Humanities and Social Sciences Communications***, 2025,  [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1057/s41599-025-05524-1)
@@ -298,7 +305,7 @@ Economic Modelling (2025-)
 Package [*snreg*](https://cran.r-project.org/web/packages/snreg/), [<img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.snreg):
 Regression with Skew-Normally Distributed Error Term,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/snreg):
-660.
+770.
 
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/), [<img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.npsf):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
@@ -324,4 +331,4 @@ for Stata (codes @ [Stata Journal](https://doi.org/10.1177/1536867X19893640), [<
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 10 Jun 2026
+Updated: 20 Jun 2026
