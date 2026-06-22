@@ -32,24 +32,24 @@ E-mail: `oleg.badunenko@brunel.ac.uk`, projects at [GitHub, https://github.com/O
 
 ## Employment
 
-2019 - present: Senior Lecturer in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University of London](https://www.brunel.ac.uk/)) <img src="mal/Flag_UK.png"  height="32">
+2019 - present: Senior Lecturer in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University of London](https://www.brunel.ac.uk/)) <img src="mal/Flag_UK.png"  height="28">
 
 
 2016 - 2019: Senior Lecturer in Economics &nbsp; (Portsmouth Business School,
-[University of Portsmouth](http://www.port.ac.uk/)) <img src="mal/Flag_UK.png"  height="32">
+[University of Portsmouth](http://www.port.ac.uk/)) <img src="mal/Flag_UK.png"  height="28">
 
 2010 - 2016: Assistant Professor in Applied Econometrics &nbsp; (Faculty of
 Management, Economics and Social Sciences, [University of
-Cologne](http://www.uni-koeln.de/)) <img src="mal/Flag_Germany.png"  height="28">
+Cologne](http://www.uni-koeln.de/)) <img src="mal/Flag_Germany.png"  height="25">
 
 
 2007 - 2010: Research Associate &nbsp; ([German Institute of Economic Research
-(DIW-Berlin)](http://www.diw.de/en)) <img src="mal/Flag_Germany.png"  height="28">
+(DIW-Berlin)](http://www.diw.de/en)) <img src="mal/Flag_Germany.png"  height="25">
 
 
 ## Education
 
-Ph.D. in Economics, European University Viadrina, Germany <img src="mal/Flag_Germany.png"  height="28">
+Ph.D. in Economics, European University Viadrina, Germany <img src="mal/Flag_Germany.png"  height="25">
 
 
 M.A. in Economics, EERC, National University Kyiv-Mohyla Academy, Ukraine <img src="mal/ua_flag.png"  height="25">
@@ -129,11 +129,17 @@ Nonparametric Frontier Analysis using Stata (w/ Pavlo Mozharovskyi),
 ***Stata Journal***, 2016, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X1601600302)
 
- When, Where and How to Perform Efficiency Estimation (w/
+When, Where and How to Perform Efficiency Estimation (w/
 Daniel J. Henderson and Subal C. Kumbhakar), ***Journal of the Royal
 Statistical Society, Series A***, 2012,
 [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1111/j.1467-985X.2011.01023.x)
+ 
+When, Where and How to Estimate Persistent and Transient Efficiency in
+Stochastic Frontier Panel Data Models (w/ Subal C. Kumbhakar),
+***European Journal of Operational
+Research***, 2016, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2016.04.049)
 
 ### Other Publications
 
@@ -199,12 +205,6 @@ Simar and Wilson two-stage efficiency analysis for Stata (w/ Harald
 Tauchmann), ***Stata Journal***, 2019,
 [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1177/1536867X19893640)
-
-When, Where and How to Estimate Persistent and Transient Efficiency in
-Stochastic Frontier Panel Data Models (w/ Subal C. Kumbhakar),
-***European Journal of Operational
-Research***, 2016, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2016.04.049)
 
 Nonparametric Frontier Analysis using Stata (w/ Pavlo Mozharovskyi),
 ***Stata Journal***, 2016, [DOI
@@ -288,7 +288,7 @@ and Subal C. Kumbhakar), RR
 
 ### BRIDGE
 
-Building resilient individuals through effective, gradual, educational transition, €264K, 2025 -- 2029 , [www.bridge-horizoneurope.eu]({www.bridge-horizoneurope.eu)
+Building resilient individuals through effective, gradual, educational transition, €264K, 2025 -- 2029 , [www.bridge-horizoneurope.eu]({www.bridge-horizoneurope.eu) &nbsp; &nbsp; <img src="mal/logo-ec--en.png"  height="28">
 
 ## Other Activities
 
@@ -331,4 +331,4 @@ for Stata (codes @ [Stata Journal](https://doi.org/10.1177/1536867X19893640), [<
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 20 Jun 2026
+Updated: 22 Jun 2026
