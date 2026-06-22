@@ -288,7 +288,8 @@ and Subal C. Kumbhakar), RR
 
 ### BRIDGE
 
-[Building resilient individuals through effective, gradual, educational transition](https://doi.org/10.3030/101177154), €264K, 2025 -- 2029 , [www.bridge-horizoneurope.eu]({www.bridge-horizoneurope.eu) &nbsp; &nbsp; <img src="mal/logo-ec--en.png"  height="28">
+[Building resilient individuals through effective, gradual, educational transition](https://doi.org/10.3030/101177154), €264K, 2025 -- 2029 , [www.bridge-horizoneurope.eu]({www.bridge-horizoneurope.eu) &nbsp; &nbsp; [<img src="mal/logo-ec--en.png"  height="28">](https://doi.org/10.3030/101177154)
+
 
 ## Other Activities
 
