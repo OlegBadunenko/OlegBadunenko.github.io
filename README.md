@@ -61,6 +61,9 @@ B.A. in Economics, Kyiv-Mohyla Academy, Ukraine <img src="mal/ua_flag.png"  heig
 
 ### Key 10 Publications
 
+The Trade-off Between Security and Privacy: An Empirical Investigation Using Pakistani Survey Data (w/ Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan), ***Technology in Society***, 2026, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.techsoc.2026.103418)
+
 Production Analysis with Asymmetric Noise (w/ Daniel J. Henderson),
 ***Journal of Productivity Analysis***,
 2024, [DOI
@@ -82,12 +85,6 @@ The Impact of Efficiency on Asset Quality in Banking (w/
 Aristeidis Dadoukis, Giulia Fusi, and Richard Simper) ***European
 Journal of Finance***, 2021, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1080/1351847X.2021.1946117)
-
-Achieving a sustainable cost-efficient business model in banking: The
-case of European commercial banks (w/ Subal C. Kumbhakar and Ana
-Lozano‐Vivas), ***European Journal of Operational
-Research***, 2021, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2020.12.039)
 
 Economies of Scale, Technical Change and Persistent and Time-Varying
 Cost Efficiency in Indian Banking: Do Ownership, Regulation and
@@ -143,8 +140,9 @@ Research***, 2016, [DOI
 
 ### Other Publications
 
-The Trade-off Between Security and Privacy: An Empirical Investigation Using Pakistani Survey Data (w/ Alexandros Apostolakis, Shabbar Jaffry, and Akbar Nasir Khan), ***Technology in Society***, 2026, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.techsoc.2026.103418)
+Worldwide well-being efficiency and its determinants: New insights from the Ordered Probit Stochastic Frontier Model (w/ José M. Cordero
+and Subal C. Kumbhakar), ***Economic
+Modelling***, 2026
 
 Local Power, Global Scores: Effects of Decentralization Reform on Ukraine's School Graduate Outcomes (w/ Olha Zadorozhna), ***Economic
 Modelling***, 2026, [DOI
@@ -190,6 +188,12 @@ persistent and transient efficiency: The case of Germany (w/
 Astrid Cullmann, Subal C. Kumbhakar, Maria Nieswand), ***Energy
 Journal***, 2021, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.5547/01956574.42.4.obad)
+
+Achieving a sustainable cost-efficient business model in banking: The
+case of European commercial banks (w/ Subal C. Kumbhakar and Ana
+Lozano‐Vivas), ***European Journal of Operational
+Research***, 2021, [DOI
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1016/j.ejor.2020.12.039)
 
 Statistical Inference for the Russell Measure of Technical Efficiency
 (w/ Pavlo Mozharovskyi), ***Journal of the Operational Research
@@ -281,9 +285,6 @@ Student Participation and Completion in Tertiary Education: The Past, Present, a
 
 Performance Analysis of Universities Across Economic, Teaching, and Research Dimensions (with Akram Dehnokhalaji and Helen Higson)
 
-Worldwide well-being efficiency and its determinants: New insights from the Ordered Probit Stochastic Frontier Model (w/ José M. Cordero
-and Subal C. Kumbhakar), RR
-
 ## Research Grant
 
 ### BRIDGE
@@ -306,7 +307,7 @@ Economic Modelling (2025-)
 Package [*snreg*](https://cran.r-project.org/web/packages/snreg/), [<img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.snreg):
 Regression with Skew-Normally Distributed Error Term,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/snreg):
-770.
+900.
 
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/), [<img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.npsf):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
@@ -332,4 +333,4 @@ for Stata (codes @ [Stata Journal](https://doi.org/10.1177/1536867X19893640), [<
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 22 Jun 2026
+Updated: 15 Jul 2026
