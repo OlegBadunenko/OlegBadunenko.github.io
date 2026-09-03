@@ -270,6 +270,12 @@ Structural Reforms in Europe" (Edited by Nauro F. Campos, Paul De
 Grauwe, and Yuemei Ji), 2018 Chapter 8, ***Oxford University
 Press***, [DOI
  <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1093/oso/9780198821878.001.0001)
+ 
+### Books
+
+Cambridge University Press.
+
+Productivity and Efficiency Analysis Using Stata (with Robin C. Sickles and Valentin Zelenyuk), 2026, ISBN: 9781047786706.
 
 ### Current Projects and R&R Requested
 
