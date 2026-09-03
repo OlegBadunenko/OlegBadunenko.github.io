@@ -273,9 +273,7 @@ Press***, [DOI
  
 ### Books
 
-Cambridge University Press.
-
-Productivity and Efficiency Analysis Using Stata (with Robin C. Sickles and Valentin Zelenyuk), 2026, ISBN: 9781047786706.
+Productivity and Efficiency Analysis Using Stata (with Robin C. Sickles and Valentin Zelenyuk), 2026, Cambridge University Press, ISBN: 9781047786706.
 
 ### Current Projects and R&R Requested
 
