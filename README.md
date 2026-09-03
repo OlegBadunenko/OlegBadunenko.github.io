@@ -288,7 +288,7 @@ Pollution abatement and sustainable growth with endogenous time preferences (w/ 
 
 Student Participation and Completion in Tertiary Education: The Past, Present, and Future (w/ Adaku Jennifer Agwunobi)
 
-Performance Analysis of Universities Across Economic, Teaching, and Research Dimensions (with Akram Dehnokhalaji and Helen Higson)
+Performance Analysis of Universities Across Economic, Teaching, and Research Dimensions (w/ Akram Dehnokhalaji and Helen Higson)
 
 ## Research Grant
 
