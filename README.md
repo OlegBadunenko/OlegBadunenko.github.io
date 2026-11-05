@@ -275,7 +275,7 @@ Labor Market Regulations and Growth in "The Political Economy of
 Structural Reforms in Europe" (Edited by Nauro F. Campos, Paul De
 Grauwe, and Yuemei Ji), 2018 Chapter 8, ***Oxford University
 Press***, [DOI
- <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1093/oso/9780198821878.001.0001)
+ <img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.1093/oso/9780198821878.001.0001),  [*Replication codes*](https://olegbadunenko.github.io/peus/)
 
 ### Current Projects and R&R Requested
 
