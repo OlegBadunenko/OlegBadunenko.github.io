@@ -32,7 +32,9 @@ E-mail: `oleg.badunenko@brunel.ac.uk`, projects at [GitHub, https://github.com/O
 
 ## Employment
 
-2019 - present: Senior Lecturer in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University of London](https://www.brunel.ac.uk/)) <img src="mal/Flag_UK.png"  height="28">
+2026 - present: Reader in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University of London](https://www.brunel.ac.uk/)) <img src="mal/Flag_UK.png"  height="28">
+
+2019 - 2026: Senior Lecturer in Economics and Finance &nbsp; ([Economics, Finance and Accounting](https://www.brunel.ac.uk/economics-finance-and-accounting) | [Brunel Business School](https://www.brunel.ac.uk/business-school) | [Brunel University of London](https://www.brunel.ac.uk/)) <img src="mal/Flag_UK.png"  height="28">
 
 
 2016 - 2019: Senior Lecturer in Economics &nbsp; (Portsmouth Business School,
@@ -280,13 +282,15 @@ Press***, [DOI
 Bank Competition, Financial Stability, and Oil Prices (w/ Sara
 Alfaihani and Shabbar Jaffry), RR
 
-Why Do Workers Avoid the Private Sector? Information, Perceptions, and Public-Private Employment Choice (w/ Mohamed Almannaei and Shabbar Jaffry)
+Why Do Workers Avoid the Private Sector? (w/ Mohamed Almannaei and Shabbar Jaffry)
 
-Performance-Based Funding and University Efficiency: Evidence from Italian Public Universities (w/ Gaetano Francesco Coppeta), RR
+Performance-Based Funding and University Efficiency  (w/ Gaetano Francesco Coppeta), RR
 
-Pollution abatement and sustainable growth with endogenous time preferences (w/ Sugata Ghosh and Nigar Hashimzade), RR
+Multidimensional Vulnerability of Households (with Maria Popova), RR
 
-Student Participation and Completion in Tertiary Education: The Past, Present, and Future (w/ Adaku Jennifer Agwunobi)
+Pollution abatement and sustainable growth with endogenous time preferences (w/ Sugata Ghosh and Nigar Hashimzade)
+
+Student Participation and Completion in Tertiary Education (w/ Adaku Jennifer Agwunobi)
 
 Performance Analysis of Universities Across Economic, Teaching, and Research Dimensions (w/ Akram Dehnokhalaji and Helen Higson)
 
@@ -338,4 +342,4 @@ for Stata (codes @ [Stata Journal](https://doi.org/10.1177/1536867X19893640), [<
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 3 Sep 2026
+Updated: 5 Nov 2026
