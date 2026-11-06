@@ -316,12 +316,12 @@ Economic Modelling (2025-)
 Package [*snreg*](https://cran.r-project.org/web/packages/snreg/), [<img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.snreg):
 Regression with Skew-Normally Distributed Error Term,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/snreg):
-900.
+1.5K.
 
 Package [*npsf*](https://cran.r-project.org/web/packages/npsf/), [<img src="mal/doi.png"  width="12" height="12">](https://doi.org/10.32614/CRAN.package.npsf):
 Nonparametric and Stochastic Efficiency and Productivity Analysis,
 [Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/npsf):
-49K.
+51K.
 
 #### Stata
 
@@ -337,9 +337,11 @@ for Stata (codes @ [Stata Journal](https://doi.org/10.1177/1536867X19893640), [<
 
 [Stata commands to estimate the panel data stochastic frontier models](https://olegbadunenko.github.io/sf-panel/)
 
+[Replication codes for the book "*Productivity and Efficiency Analysis Using Stata*"](https://olegbadunenko.github.io/peus/)
+
 ---
 
 [Download curriculum
 vitae](https://drive.proton.me/urls/M4FWGH11DW#y9Va0i1jrmxs)
 
-Updated: 5 Nov 2026
+Updated: 6 Nov 2026
